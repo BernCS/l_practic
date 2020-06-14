@@ -1,0 +1,11 @@
+E:\HSE\Работы\Учебная Практика\Agent\Agent\obj\Debug\netcoreapp3.1\Agent.csprojAssemblyReference.cache
+E:\HSE\Работы\Учебная Практика\Agent\Agent\obj\Debug\netcoreapp3.1\Agent.AssemblyInfoInputs.cache
+E:\HSE\Работы\Учебная Практика\Agent\Agent\obj\Debug\netcoreapp3.1\Agent.AssemblyInfo.cs
+E:\HSE\Работы\Учебная Практика\Agent\Agent\bin\Debug\netcoreapp3.1\Agent.exe
+E:\HSE\Работы\Учебная Практика\Agent\Agent\bin\Debug\netcoreapp3.1\Agent.deps.json
+E:\HSE\Работы\Учебная Практика\Agent\Agent\bin\Debug\netcoreapp3.1\Agent.runtimeconfig.json
+E:\HSE\Работы\Учебная Практика\Agent\Agent\bin\Debug\netcoreapp3.1\Agent.runtimeconfig.dev.json
+E:\HSE\Работы\Учебная Практика\Agent\Agent\bin\Debug\netcoreapp3.1\Agent.dll
+E:\HSE\Работы\Учебная Практика\Agent\Agent\bin\Debug\netcoreapp3.1\Agent.pdb
+E:\HSE\Работы\Учебная Практика\Agent\Agent\obj\Debug\netcoreapp3.1\Agent.dll
+E:\HSE\Работы\Учебная Практика\Agent\Agent\obj\Debug\netcoreapp3.1\Agent.pdb

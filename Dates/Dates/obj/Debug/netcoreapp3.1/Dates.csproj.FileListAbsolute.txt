@@ -1,0 +1,11 @@
+E:\HSE\Работы\Учебная Практика\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.exe
+E:\HSE\Работы\Учебная Практика\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.deps.json
+E:\HSE\Работы\Учебная Практика\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.json
+E:\HSE\Работы\Учебная Практика\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.runtimeconfig.dev.json
+E:\HSE\Работы\Учебная Практика\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.dll
+E:\HSE\Работы\Учебная Практика\Dates\Dates\bin\Debug\netcoreapp3.1\Dates.pdb
+E:\HSE\Работы\Учебная Практика\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.csprojAssemblyReference.cache
+E:\HSE\Работы\Учебная Практика\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfoInputs.cache
+E:\HSE\Работы\Учебная Практика\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.AssemblyInfo.cs
+E:\HSE\Работы\Учебная Практика\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.dll
+E:\HSE\Работы\Учебная Практика\Dates\Dates\obj\Debug\netcoreapp3.1\Dates.pdb

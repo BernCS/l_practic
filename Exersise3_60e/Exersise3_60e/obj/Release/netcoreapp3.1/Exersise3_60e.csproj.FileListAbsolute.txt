@@ -1,0 +1,11 @@
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\bin\Release\netcoreapp3.1\Exersise3_60e.exe
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\bin\Release\netcoreapp3.1\Exersise3_60e.deps.json
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\bin\Release\netcoreapp3.1\Exersise3_60e.runtimeconfig.json
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\bin\Release\netcoreapp3.1\Exersise3_60e.runtimeconfig.dev.json
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\bin\Release\netcoreapp3.1\Exersise3_60e.dll
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\bin\Release\netcoreapp3.1\Exersise3_60e.pdb
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\obj\Release\netcoreapp3.1\Exersise3_60e.csprojAssemblyReference.cache
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\obj\Release\netcoreapp3.1\Exersise3_60e.AssemblyInfoInputs.cache
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\obj\Release\netcoreapp3.1\Exersise3_60e.AssemblyInfo.cs
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\obj\Release\netcoreapp3.1\Exersise3_60e.dll
+E:\HSE\Работы\Учебная Практика\Exersise3_60e\Exersise3_60e\obj\Release\netcoreapp3.1\Exersise3_60e.pdb

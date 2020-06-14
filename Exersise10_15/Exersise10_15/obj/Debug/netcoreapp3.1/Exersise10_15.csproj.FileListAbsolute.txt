@@ -1,0 +1,11 @@
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\bin\Debug\netcoreapp3.1\Exersise10_15.exe
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\bin\Debug\netcoreapp3.1\Exersise10_15.deps.json
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\bin\Debug\netcoreapp3.1\Exersise10_15.runtimeconfig.json
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\bin\Debug\netcoreapp3.1\Exersise10_15.runtimeconfig.dev.json
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\bin\Debug\netcoreapp3.1\Exersise10_15.dll
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\bin\Debug\netcoreapp3.1\Exersise10_15.pdb
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\obj\Debug\netcoreapp3.1\Exersise10_15.csprojAssemblyReference.cache
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\obj\Debug\netcoreapp3.1\Exersise10_15.AssemblyInfoInputs.cache
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\obj\Debug\netcoreapp3.1\Exersise10_15.AssemblyInfo.cs
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\obj\Debug\netcoreapp3.1\Exersise10_15.dll
+E:\HSE\Работы\Учебная Практика\Exersise10_15\Exersise10_15\obj\Debug\netcoreapp3.1\Exersise10_15.pdb

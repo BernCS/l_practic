@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Exersise10_15/1.0.0": {
+        "runtime": {
+          "Exersise10_15.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exersise10_15/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
